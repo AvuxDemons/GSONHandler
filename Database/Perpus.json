@@ -1,13 +1,1 @@
-[
-  {
-    "nama": "Perpustakaan 1",
-    "listBuku": [
-      {
-        "judul": "Buku 1",
-        "penerbit": {
-          "nama": "Penerbit 1"
-        }
-      }
-    ]
-  }
-]
+[]
